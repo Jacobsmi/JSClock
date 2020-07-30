@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.pages{
+    height: 100vh;
+    margin-left: 0;
+}
+#page-1{
+    background-color: #00171F;
+}
+#main-title{
+    display:inline-block;
+    background-color: #3A7CA5;
+    border: 1px hidden;
+    padding: 2vh;
+    border-radius: 2vw;
+}
+#clock-container{
+    display: inline-block;
+    background-color: #CCDDE2;
+    border: 1px hidden;
+    padding: 2vh;
+    border-radius: 2vw;
+    text-align: center;
+    font-size: 7vw;
+}
+#page-2{
+    background-color: #28965A;
+}
